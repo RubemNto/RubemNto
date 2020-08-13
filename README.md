@@ -22,6 +22,8 @@ I have some games published on **[itch.io](https://rubemchrist.itch.io/)** and m
 By the end of this year(2020) I plan to launch 3 courses on udemy about game development and game art in 2D and 3D with **Blender, Photoshop and Unity**.
 
 <img align="right" src="https://media1.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47g41bp8ia2bjd6mtewvbdhntmdg2v1bj6un8yrzla&rid=giphy.gif">
+<br/>
+<br/>
 - 🔭 I’m currently working on ... a video game project and online game develpment courses
 - 🌱 I’m currently learning ... Flutter and React and eveything in between
 - 👯 I’m looking to collaborate on ... mobile development
