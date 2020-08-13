@@ -8,5 +8,5 @@
 - 📫 How to reach me: ... I don't know yet
 - ⚡ Fun fact: ... I'm brazilian but part Italian, German and Chimpanzee
 
-[![Rubem's github stats](https://github-readme-stats.vercel.app/api?Rubemnto=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Rubem's github stats](https://github-readme-stats.vercel.app/api?RubemNto=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
