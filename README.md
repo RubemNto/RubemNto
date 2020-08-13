@@ -1,8 +1,10 @@
 ### May the force be with u and your projects
-<img align="center" src="https://img.icons8.com/material-sharp/24/000000/github.png"/>
-<img align="center" src="https://img.icons8.com/material-rounded/24/000000/instagram-new.png"/>
-<img align="center" src="https://img.icons8.com/material-sharp/24/000000/whatsapp.png"/>
-<img align="center" src="https://img.icons8.com/material-sharp/24/000000/email.png"/>
+<a align="center">
+<img align="left" src="https://img.icons8.com/material-sharp/24/000000/github.png"/>
+<img align="left" src="https://img.icons8.com/material-rounded/24/000000/instagram-new.png"/>
+<img align="left" src="https://img.icons8.com/material-sharp/24/000000/whatsapp.png"/>
+<img align="left" src="https://img.icons8.com/material-sharp/24/000000/email.png"/>
+</a>
 
 Hi, i'm Rubem Fridolino Christ Neto, a vide game developer, artist and programmer.
 
