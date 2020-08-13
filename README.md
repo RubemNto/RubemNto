@@ -1,16 +1,16 @@
 ### May the force be with u and your projects
 <a align="center">
-<a href="">
-<img align="left" width="30px" src="https://img.icons8.com/material-sharp/24/000000/github.png"/>
+<a href="https://github.com/RubemNto">
+<img  width="30px" src="https://img.icons8.com/material-sharp/24/000000/github.png"/>
 </a>
-<a href="">
-<img align="left" width="30px" src="https://img.icons8.com/material-rounded/24/000000/instagram-new.png"/>
+<a href="https://www.instagram.com/rubemfridolinochrist/?hl=en">
+<img  width="30px" src="https://img.icons8.com/material-rounded/24/000000/instagram-new.png"/>
 </a>
-<a href="">
-<img align="left" width="30px" src="https://img.icons8.com/material-sharp/24/000000/whatsapp.png"/>
+<a href="https://wa.me/5551997990854?text=Hello%20Rubem,%20how%20are%20you?">
+<img  width="30px" src="https://img.icons8.com/material-sharp/24/000000/whatsapp.png"/>
 </a>
-<a href="">
-<img align="left" width="30px" src="https://img.icons8.com/material-sharp/24/000000/email.png"/>
+<a href="mailto:someone@yoursite.com?subject= Hello Rubem. Nice Github profile">
+<img  width="30px" src="https://img.icons8.com/material-sharp/24/000000/email.png"/>
 </a>
 </a>
 <br/>
@@ -32,3 +32,7 @@ By the end of this year(2020) I plan to launch 3 courses on udemy about game dev
 
 [![Rubem's github stats](https://github-readme-stats.vercel.app/api?username=RubemNto)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- <a href="https://icons8.com/icon/83991/email">Email icon by Icons8</a>
+<a href="https://icons8.com/icon/85396/whatsapp">WhatsApp icon by Icons8</a>
+<a href="https://icons8.com/icon/85140/instagram">Instagram icon by Icons8</a>
+<a href="https://icons8.com/icon/106564/github">GitHub icon by Icons8</a> -->
