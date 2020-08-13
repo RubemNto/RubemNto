@@ -1,12 +1,17 @@
 ### May the force be with u and your projects
 <a align="center">
-<img align="left" src="https://img.icons8.com/material-sharp/24/000000/github.png"/>
-<img align="left" src="https://img.icons8.com/material-rounded/24/000000/instagram-new.png"/>
-<img align="left" src="https://img.icons8.com/material-sharp/24/000000/whatsapp.png"/>
-<img align="left" src="https://img.icons8.com/material-sharp/24/000000/email.png"/>
+<img align="center" src="https://img.icons8.com/material-sharp/24/000000/github.png"/>
+<img align="center" src="https://img.icons8.com/material-rounded/24/000000/instagram-new.png"/>
+<img align="center" src="https://img.icons8.com/material-sharp/24/000000/whatsapp.png"/>
+<img align="center" src="https://img.icons8.com/material-sharp/24/000000/email.png"/>
 </a>
 <br/>
-Hi, i'm Rubem Fridolino Christ Neto, a vide game developer, artist and programmer.
+<br/>
+
+<p align="center">
+Hi, I'm Rubem Fridolino Christ Neto, a vide game developer, artist and programmer from Brazil. I'm in my way to study in Portugal Game Development and learn everything that I can.
+I have some games published on itch.io and my favorite engine is [Unity](https://unity.com/), but I am learning to use [Godot](https://godotengine.org/) in my spare time.
+</p>
 
 - 🔭 I’m currently working on ... a video game project and online game develpment courses
 - 🌱 I’m currently learning ... Flutter and React and eveything in between
