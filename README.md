@@ -1,4 +1,6 @@
 ### May the force be with u and your projects
+<img src="https://img.icons8.com/material-sharp/24/000000/github.png"/>
+Hi, i'm Rubem Fridolino Christ Neto, a vide game developer, artist and programmer.
 
 - 🔭 I’m currently working on ... a video game project and online game develpment courses
 - 🌱 I’m currently learning ... Flutter and React and eveything in between
