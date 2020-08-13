@@ -18,19 +18,18 @@
 
 
 Hi, I'm Rubem Fridolino Christ Neto, a **vide game developer, artist and programmer** from Brazil. I'm in my way to study in Portugal Game Development and learn everything that I can.
-I have some games published on **[itch.io](https://rubemchrist.itch.io/)** and my favorite engine is **[Unity](https://unity.com/)**, but I am learning to use **[Godot](https://godotengine.org/)** in my spare time.
+I have some games published on **[itch.io](https://rubemchrist.itch.io/)** and my favorite engine is **[Unity](https://unity.com/)**, and in my spare time I learn Flutter development.
 By the end of this year(2020) I plan to launch 3 courses on udemy about game development and game art in 2D and 3D with **Blender, Photoshop and Unity**.
 
 <img align="right" src="https://media1.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47g41bp8ia2bjd6mtewvbdhntmdg2v1bj6un8yrzla&rid=giphy.gif">
-<br/>
-<br/>
-- 🔭 I’m currently working on ... a video game project and online game develpment courses
-- 🌱 I’m currently learning ... Flutter and React and eveything in between
-- 👯 I’m looking to collaborate on ... mobile development
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ... I don't know yet
-- ⚡ Fun fact: ... I'm brazilian but part Italian, German and Chimpanzee
+
+**QUICK STUFF ABOUT ME AND ONE ABOUT THE WORLD**
+- 🔭 I’m currently working on a platformer game for android called Where next?
+- <img width="10px" src="https://img.icons8.com/color/48/000000/flutter.png"/> I’m currently learning Flutter and eveything in between
+- 👯 I’m looking to collaborate on mobile development and Unity projects
+- 🤔 I’m looking for help with optmization for mobile apps
+- 💬 Ask me about anything
+- ⚡ Fun world fact => TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer.
 
 [![Rubem's github stats](https://github-readme-stats.vercel.app/api?username=RubemNto)](https://github.com/anuraghazra/github-readme-stats)
 
