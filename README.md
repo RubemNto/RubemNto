@@ -30,7 +30,7 @@ By the end of this year(2020) I plan to launch 3 courses on udemy about game dev
 - <img align="left" width="20px" src="https://img.icons8.com/color/48/000000/why-us-male--v1.png"/> I’m looking for help with optmization for mobile apps
 - 🌎 Fun world fact => TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer.
 
-[![Rubem's github stats](https://github-readme-stats.vercel.app/api?username=RubemNto)](https://github.com/anuraghazra/github-readme-stats)
+[![RubemNto's github stats](https://github-readme-stats.vercel.app/api?username=RubemNto)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <a href="https://icons8.com/icon/83991/email">Email icon by Icons8</a>
 <a href="https://icons8.com/icon/85396/whatsapp">WhatsApp icon by Icons8</a>
