@@ -17,7 +17,7 @@
 <br/>
 
 
-Hi, I'm Rubem Fridolino Christ Neto, a **vide game developer, artist and programmer** from Brazil. I'm in my way to study in Portugal Game Development and learn everything that I can.
+Hi, I'm Rubem Fridolino Christ Neto, a **video game developer, artist and programmer** from Brazil. I'm in my way to study in Portugal Game Development and learn everything that I can.
 I have some games published on **[itch.io](https://rubemchrist.itch.io/)** and my favorite engine is **[Unity](https://unity.com/)**, and in my spare time I learn Flutter development.
 By the end of this year(2020) I plan to launch 3 courses on udemy about game development and game art in 2D and 3D with **Blender, Photoshop and Unity**.
 
