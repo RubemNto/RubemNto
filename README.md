@@ -1,4 +1,4 @@
-### May the force be with u and your projects
+### Programming is everywhere, it's just hard to spot it
 <a align="center">
 <a href="https://github.com/RubemNto">
 <img  width="30px" src="https://img.icons8.com/material-sharp/24/000000/github.png"/>
