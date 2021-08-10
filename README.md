@@ -2,7 +2,7 @@
 ### <p align="center"> **let's collab and have a coffee some day** </p>
 
 <p align="center">
-  <img height = "100" src="images/island.png">
+  <img height = "100" src="images/coffee.png">
   
 </p>
 
