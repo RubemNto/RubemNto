@@ -29,4 +29,5 @@
 <p align="center">
   <img height= "25" margin = "0" src="images/ubuntu.png">
   <img height= "25" margin = "0" src="images/windows.png">
+  <img height= "25" margin = "0" src="images/Manjaro-logo.svg.png">
 </p>
