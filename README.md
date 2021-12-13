@@ -24,6 +24,7 @@
   <img height= "30" margin = "0" src="images/stacked.png">
   <img height= "30" margin = "0" src="images/html.png">
   <img height= "30" margin = "0" src="images/css.png">
+  <img height= "30" margin = "0" src="images/bootstrap-logo.png">
 </p>
 
 <p align="center">
