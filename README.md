@@ -25,6 +25,7 @@
   <img height= "30" margin = "0" src="images/html.png">
   <img height= "30" margin = "0" src="images/css.png">
   <img height= "30" margin = "0" src="images/bootstrap-logo.png">
+  <img height= "30" margin = "0" src="images/opengl-1.svg">
 </p>
 
 <p align="center">
