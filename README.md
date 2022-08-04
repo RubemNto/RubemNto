@@ -20,6 +20,7 @@
   <img height= "28" margin = "0" src="images/cs.png">
   <img height= "30" margin = "0" src="images/flutter.png">
   <img height= "30" margin = "0" src="images/vscode.png">
+  <img height= "30" margin = "0" src="images/neovimlogo.png">
   <img height= "30" margin = "0" src="images/unity.jpg">
   <img height= "30" margin = "0" src="images/stacked.png">
   <img height= "30" margin = "0" src="images/html.png">
