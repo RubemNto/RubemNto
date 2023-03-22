@@ -28,22 +28,14 @@ So, whenever you wanna chat or have a coffee with me, just call
 <br>
 <br>
 
-<a href = "https://api.whatsapp.com/send?phone=351911134066">
-<i class="lab la-whatsapp" style="font-size:25px"></i>
-</a>
-<i class="lab la-discord" style="font-size:25px"></i>
-[dev_rubs#1051]
-<a href = "https://twitter.com/dev_rubs">
-<i class="lab la-twitter" style="font-size:25px"></i>
-</a>
-<a href = "mailto: rubemchrist@gmail.com">
-<i class="las la-envelope" style="font-size:25px"></i>
-</a>
+![Email: email](https://img.shields.io/badge/Email-rubemchrist@gmail.com-lightgray)
+[![Twitter: twitter](https://img.shields.io/badge/twitter-@dev_rubs-blue)]("https://twitter.com/dev_rubs)
+[![Whatsapp: whatsapp](https://img.shields.io/badge/whatsapp-+351%20911134066-lightgreen)](https://api.whatsapp.com/send?phone=351911134066)
 </div>
 
 </div>
 
 <div style="margin: 8vh 0 5vh 0">
-<iframe src="https://giphy.com/embed/687qS11pXwjCM" width="300" height="300" frameBorder="1"></iframe><p><a href="https://giphy.com/gifs/hoppip-coffee-time-adventure-687qS11pXwjCM"></a></p>
+<img src="images/giphy.webp" width=300>
 </div>
 </div>
