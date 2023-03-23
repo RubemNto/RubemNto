@@ -1,18 +1,21 @@
-<link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
 <div style="display:flex; justify-content: space-between;">
 <div>
+  
+  <img align='right' src="images/giphy.webp" width=300>
 
 ### Hey, dev_rubs here!
 - Freelance **Mobile / Web** developer by day
 - **Blade GDK** developer by night
 
 <div style="margin: 10px 10px 10px 10px">
-<img src="images/flutter.png" height=50 style="margin: 10px 10px 10px 10px">
-<img src="images/c.png" height=50 style="margin: 10px 10px 10px 10px" >
-<img src="images/c++.png" height=50 style="margin: 10px 10px 10px 10px" >
-<img src="images/neovimlogo.png" height=50 style="margin: 10px 10px 10px 10px" >
+<img align='left' src="images/flutter.png" height=50 style="margin: 10px 10px 10px 10px">
+<img align='left' src="images/c.png" height=50 style="margin: 10px 10px 10px 10px" >  
+<img align='left' src="images/c++.png" height=50 style="margin: 10px 10px 10px 10px" >
+<img align='left' src="images/neovimlogo.png" height=50 style="margin: 10px 10px 10px 10px" >
 </div>
 
+  <br><br>
+  
 <div style="margin: 10px 10px 10px 20px">
 
 [![Twitter: dev_rubs](https://img.shields.io/twitter/follow/dev_rubs?style=social)](https://twitter.com/dev_rubs)
@@ -29,13 +32,12 @@ So, whenever you wanna chat or have a coffee with me, just call
 <br>
 
 ![Email: email](https://img.shields.io/badge/Email-rubemchrist@gmail.com-lightgray)
-[![Twitter: twitter](https://img.shields.io/badge/twitter-@dev_rubs-blue)]("https://twitter.com/dev_rubs)
 [![Whatsapp: whatsapp](https://img.shields.io/badge/whatsapp-+351%20911134066-lightgreen)](https://api.whatsapp.com/send?phone=351911134066)
 </div>
 
 </div>
 
-<div style="margin: 8vh 0 5vh 0">
-<img src="images/giphy.webp" width=300>
-</div>
+<!--<div style="margin: 8vh 0 5vh 0">
+<img align='right' src="images/giphy.webp" width=300>
+</div>-->
 </div>
